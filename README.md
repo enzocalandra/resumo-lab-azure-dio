@@ -10,4 +10,5 @@ Em seguida, pude aprender brevemente sobre a maneira de se criar máquinas virtu
 ## Terceiro Lab
 O próximo aprendizado foi sobre os tipos de serviço disponibilizados em nuvem (IaaS, PaaS e Saas).
 
-
+## Quarto Lab
+O laboratório atual versou sobre zonas de disponibilidade, disaster recovery e a criação de grupos de recursos no ambiente Azure.
