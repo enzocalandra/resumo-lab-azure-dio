@@ -12,3 +12,6 @@ O próximo aprendizado foi sobre os tipos de serviço disponibilizados em nuvem 
 
 ## Quarto Lab
 O laboratório atual versou sobre zonas de disponibilidade, disaster recovery e a criação de grupos de recursos no ambiente Azure.
+
+## Quinto Lab
+Criação detalhada de uma VM no ambiente Azure.
